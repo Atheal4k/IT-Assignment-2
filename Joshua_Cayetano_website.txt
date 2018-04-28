@@ -1,0 +1,203 @@
+!DOCTYPE html>
+<!-- saved from url=(0076)http://e07593.s3-website-ap-southeast-2.amazonaws.com/html5-basic/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+  <title>Profile Assignment</title>
+  <meta name="description" content="My Student Website">
+  <meta name="author" content="E07593">
+
+  <link rel="stylesheet" href="./My Student Website_files/styles.css">
+
+</head>
+<style>
+.top {
+background-color: blue;
+color:white;
+paddiing: 40px;
+}
+
+</style>
+<body>
+			<header>
+        <div>
+          <div align=center>
+			  <h1>Profile of Joshua Cayetano</h1>
+</div>
+			</header>
+		<!-- Main -->
+    <div>
+      <div align=center>
+			<img src="./My Student Website_files/Me.jpg">
+    </div>
+
+
+		<!-- Background Section -->
+			<section id="background">
+			<header class="sectionHeading">
+        <div>
+          <div align=center>
+            	<h1>My Background</h1>
+            </div>
+			</header>
+
+				<section>
+          <div>
+          <div class= "Opening">
+            <div>
+            <div align=center>
+<h2>Personal Information</h2>
+
+					<p> I was born in Australia in Monash Hospital. I was born on October the 1st 1999 on a Wednesday and live primarily with my mum, alternating between my dad as my parents as divorced.
+            I attended St Mary Magdalen for 3 years and then transferred to Sacred Heart Primary Oakleigh and then attended High School at Salesian College Chadstone, graduating in 2017.
+
+An interesting fact about myself is that while going to PAX 2017 is that I meet a cosplayer who is a complete stranger and ate a brownie from their hand.
+</p>
+</div>
+
+				</section>
+				<section>
+          <div>
+            <div align=center>
+					<h3>Interest in IT</h3>
+        </div>
+					<p>Like any other teenager I wasn’t sure what I wanted to do but had a general idea of where I wanted to study, into the science field. It was then during V.C.E that I considered I.T, as I was doing so well that I decided to pursue it.
+This wasn’t just solely based on luck as I had continuous dedication through trial and error from learning from my mistakes in my studies in Information Technology, being attentive in class and trying to understand concepts that I didn’t understand.This was then furnished by my own personal goals and my uncle. Firstly through my passion through gaming I had heard that it was financially better to build a PC so I decided to do some research into the hardware of computers. My uncle then inspired me by telling me on how he was a freelance who travelled to Singapore for a company which sounded really enticing.
+
+I choose to come to RMIT a I heard through various university students that I meet that RMIT was the place that specializes in information technology. Also on occasional visits to the State Library of Victoria when I visited to study and take in the vibrant atmosphere of the city I would notice that RMIT was right next to it and I figured that it would be a great place to study as I would not only enjoy travelling to uni but also gain access to great restaurants.
+
+What I expect to learn during my studies is various techniques on how to program various softwares and programs as well as how to effectively organise databases. However I will also learn how to effectively network between students and organisations while also balancing between socialisation and assignments.
+</p>
+				</section>
+
+
+				<section>
+          <div>
+            <div align=center>
+					<h3>Ideal Job  </h3>
+        </div>
+
+        <div>
+          <div align=center>
+            <img src="./My Student Website_files/Dream Job.PNG">
+          </div>
+
+          <div>
+            <div align=center>
+<b>https://careers.google.com/jobs#!t=jo&jid=/google/security-engineer-infrastructure-sydney-nsw-australia-3708450589&  </b>
+</div>
+
+            <div>
+              <div align=center>
+                <font open sans
+                <p><b>A description in your own words of the position and particularly what makes this position appealing to you</b></p>
+              </div>
+
+<p>The Ideal Job that I am looking for is working for a high company that is involved in Information Technology like Google. This is one of the positions that is offered by Google in Australia and the position is to be a Security Engineer and what the position entails is looking over keeping computer systems safe; protecting sensitive data, simplify user experience; work in cloud systems and researching in the latest in computer technology. This position is appealing to me as not only is it achievable but there is a great sense of responsibility in protecting millions of computer systems across the globe while getting the latest technology to build greater technology.
+</p>
+
+<div>
+  <div align=center>
+    <p> <b>A description in your own words of the skills, qualifications and experience required for the position. </b></p>
+    <div>
+What Google expects from people who apply to this position is that they have programming experience, have an understanding on how to deal with attacks, know how to prevent threats, have 3 years of experience in security and have at least a Bachelor or Masters in computer science.
+</p>
+<div>
+  <div align=center>
+    <p> <b> A description in your own words of the skills, qualifications and experience you currently have. If not describe how you will obtain them for the position.</b></p>
+  </div>
+<p>Currently I have no experience in any of the related fields. I will aim towards it by continuing my education at RMIT by furthering my understanding in Information Technology and programming and looking for any available places that require security for their information.
+</p>
+
+				</section>
+
+			<section id="Profile">
+			<header class="sectionHeading">
+        <div>
+          <div align=center>	<h2>Profile</h2>
+          </div>
+			</header>
+      <div>
+        <div align=center>
+          	<b> Myer Briggs Test</b>
+          </div>
+
+          <div>
+      <div class= "Myer 1">
+        <div align=left>
+        <img src="./My Student Website_files/Myer Briggs Test/Extrovert.PNG">
+        <img src="./My Student Website_files/Myer Briggs Test/Judging.PNG">
+      </div>
+
+<div>
+      <div class= "Myer 2"
+      <div align=right>
+        <img src="./My Student Website_files/Myer Briggs Test/intution.PNG">
+        <img src="./My Student Website_files/Myer Briggs Test/Thinking.PNG">
+      </div>
+
+<div>
+      <div class= "Myer 3">
+        <div align=center>
+        <img src="./My Student Website_files/Myer Briggs Test/Rationals Temperment.PNG">
+</div>
+
+        <div>
+          <div align=center>  <p> <b>What do the results of these tests mean for you?</b></p>
+            <div>
+<p>When I took the Myer Briggs Test what I discovered was that I was an ENTJ, having the qualities of being an Extrovert, a person who uses their Intuition, who thinks about things and a person who Judges and leaves unanswered questions. Personally I agree with the test categorising myself as an extrovert as I myself have noticed approaching new people and agree with the definition of what an extrovert is. On the other hand for Intuition while I mostly agree that I do enjoy new scenarios, doubt myself and think of future possibilities I actually do enjoy doing the actual practice. As for Judge of character I concurrently agree with the results as I am focused on my work and can be a stubborn character when completing tasks. Thinking is where I don’t agree as while I do think of doing things efficiently I’m not sure about not sharing my emotions.
+</p>
+<div>
+  <div align=center><p>
+    <b> How do you think that these results may influence your behaviour in a team?</b></p>
+  </div>
+<p>These results may reflect in my behaviour in a team as while I can engages in social discussions, I may prioritise to do work first which can compromise social relations with others and come across as cold.</p>
+
+<div>
+  <div align=center><p><b>How should you take this into account when forming a team?</b></P>
+    <div>
+<p>When forming a team I realise now that I need people that not only share similar characteristics as myself but the polar opposite, for example introvert . This is because while it is comforting to relate and work with others like myself, it would be beneficial to have individuals who are not the same as it pushes me to work with new people.
+</p>
+
+<div>
+  <div align=center><p><b>Learning Style Test</b></p>
+    <div>
+<img src="./My Student Website_files/Learning Syle Test/Results.PNG">
+<p><b>What do the results of these tests mean for you?</b></p>
+<p>This is very surprising as while I do tend to space out at times I did not consider to be primarily reliant on images. It is true I do have trouble with spoken directions and can get distracted very easily however I know that I can overcome it with visual learning via the house system.</p>
+<p><b>How do you think that these results may influence your behaviour in a team?</b></p>
+<p>This will not affect my behaviour in my team dramatically but can cause me to occasionally look away and not process information that comes from others orally bt through images like looking at a desktop. </p>
+<p><b>How should you take this into account when forming a team?</b></p>
+<p>When forming a team I should consider if my team members are not to strict but are instead easy going, focused and flexible so that we can not only get the work done but it is easier to work together to finish quickly.></p>
+
+<p><b>Personality Testing</b></p>
+<img src="./My Student Website_files/Personality/Personality Test.PNG">
+<p><b>What do the results of these tests mean for you?</b></p>
+<p>I kind of agree that I am a bit carefree person that can switch to being passionate to a certain goal. It is a bit surprising that I would be categorised as a politician as while I am in tune with my emotions I don’t see it as massive power.I disagree on the other hand that I am the life of the party and that I am a charming person though as usually I would associate that to someone that is really outgoing or a ladies man. </p>
+<p><b>How do you think that these results may influence your behaviour in a team?</b></p>
+<p>I may try to lead the team or think of new ideas that the teams hasn’t explored that is associated with the task. This is may also allow me to make compromises between members that may have internal conflicts between them.</p>
+<p><b>How should you take this into account when forming a team?</b></p>
+<p>I guess when forming a team I would accept others regardless of ethnicity or background and take into account what others want and try not to read into the actions and emotions of team members to much as it may cause offense. ></p>
+
+<h3> Project Ideas</h3>
+<p><b>Overview</b></p>
+<p>The project I have decided to do is build a website that will enable users to break down items either biological or mechanical into their individual components so that users may be able to inform others of how objects work. This will also allow users to have a visual representation of said components. </p>
+
+<p><b>Motivation </b></p>
+<p> This project will be useful as it will be a stepping stone to allow users to interact with objects more. While it is possible for users to view images it cannot be interacted with as naturally in the real world, thus understanding of certain subjects being constrained. This is important as people learn concepts differently as  verified by scientist Walter Leite from the Research and Evaluation Methodology program in Florida as by conducting the VARK test discovered that half the participants had a certain learning style, being visual, aural, reading and kinesthetic. This links to australian society as currently Australians numeracy and literacy rates are declining with for instance  43.7% of Australians having below average literacy  levels as of 2013 even leading to recent re-evaluation of the Victorian Curriculum of Education.</p>
+
+<p><b>
+Description </b></p>
+<p>  What this website will have is a main page with a carousel program showing any recent projects in the middle, alternating between 3 to 5 project right to left. Along the top there will be the headings “Create new model”, “View Models” for the header. In the middle there will be a brief description of what the website is with below in the footer there will be my contact details.</p>
+
+<p><b>Tools and Technologies</b></p>
+<p> The hardware that will be required is none other than my laptop, my desktop being a replacement in case of an emergency. The software used will primarily be Github so that I can gain more experience and understanding in using the system as well as allowing me to create a website.</p>
+
+<p><b>Skills required</b></p>
+<p> The skills required for me is to have time management, an understanding of programming and being resourceful. Time management is essential because I need to properly plan out when I need to work this assignment as well as other assignments, especially since it can be time consuming to program. I need to understand how to program which can be achieved by watching tutorials and reading articles as well as attending class. Finally I need to be resourceful by being able to not only find the answers that I require but solving them as well through understanding. This can be accomplished by searching through various websites and asking both my lecturers and my peers.
+</p>
+
+<p><b>Outcome </b></p>
+<p> If successful the outcome of the project will allow users to break down components and further their understanding for example the understand visually how the heart works. This overcomes users having to learn in a constrained manner. The impact of this idea on society will shorten the time users have to understand concepts of their choosing as well as in time increase Australia’s education standard. </p>
+
+</body>
